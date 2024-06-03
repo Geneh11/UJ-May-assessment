@@ -1,12 +1,12 @@
 {
     "user" : {
-        "fullName" : "",
+        "fullName" : "Sifiso Mohlala",
         "photo" : "",
-        "phone" : "",
-        "email" : ""
+        "phone" : "0694162759",
+        "email" : "smohlala479@gmail.com"
     },
     "education" : {
-        "institutionName" : "",
+        "institutionName" : "University of Johannesburg",
         "photo" : "",
         "description" : ""
     },
